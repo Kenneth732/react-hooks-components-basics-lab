@@ -7,6 +7,8 @@
 
 ## Instructions
 
+## Live Server: http://localhost:3000/
+
 In the labs throughout this section, we'll be working on building a small
 portfolio site in React.
 
